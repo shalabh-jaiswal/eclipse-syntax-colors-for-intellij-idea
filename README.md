@@ -1,4 +1,4 @@
-# Eclipse Like Syntax colors for IntelliJ IDEA
+# Eclipse Like Syntax Colors for IntelliJ IDEA
 
 ## Java and XML Syntax colors
 
